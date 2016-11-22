@@ -1,2 +1,2 @@
 # Utilities
-Small Java Utilities
+Small Java and shell Utilities
